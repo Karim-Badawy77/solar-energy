@@ -46,13 +46,13 @@ const translations = {
     "works-subtitle": "نقدم خدمات احترافية",
     "work1-title": "محطة 150 كيلو وات في ارض الفرافره للأستاذ:",
     "work1-text": "عماد فرفور والاستاذ علاء الضبع",
-    "work2-title": "محطه 125 حصان امتداد طريق ابناء الغربيه بجوار الوطنيه:",
+    "work2-title": "محطة 125 حصان امتداد طريق ابناء الغربيه بجوار الوطنيه:",
     "work2-text": "للدواجن للعمده بسيوني",
     "work3-title": "محطة 107 كيلو وات في الضبعه للاستاذه:",
     "work3-text": "عاشور الديب",
     "work4-title": "محطة 60 كيلو وات في مدخل شجاعه طريق العلمين للأستاذ:",
     "work4-text": "احمد عبد الرحمن (شركه القائد)",
-    "work5-title": "محطه 50 كيلو وات في منطقه الروابي الخضر بالبحيره للأستاذ:",
+    "work5-title": "محطة 50 كيلو وات في منطقه الروابي الخضر بالبحيره للأستاذ:",
     "work5-text": "طارق البلتاجي",
     "work6-title": "محطة بقدرة 180 كيلو وات بمدينه السادات",
     "work6-text": "محافظه المنوفيه (متحركه)",
@@ -60,35 +60,35 @@ const translations = {
     "work7-text": "مزرعه نبع البركه",
     "work-link": "اذهب للمزيد",  "values-title": "قيم الشركة",
     "values-subtitle": "الضمانات المقدمه من الشركة:",
-    "value1": "مراقبه الجوده اولويه قصوى للشركه وكفاءه المنتجات والتركيبات خاضعه لعمليات تفتيش",
-    "value2": "صارمه للتاكد من انها تلبي اعلى معايير الجوده والصناعه في هذا المجال",
+    "value1": "مراقبه الجوده اولويه قصوى للشركة وكفائة المنتجات والتركيبات خاضعه لعمليات تفتيش صارمة للتاكد من انها تلبي اعلى معايير الجودة والصناعة في هذا المجال",
+    // "value2": "صارمة للتاكد من انها تلبي اعلى معايير الجوده والصناعه في هذا المجال",
 
     "team-title": "فريق العمل",
-    "team1": "الشركة لديها فريق عمل من المهندسين والفني وخدمه العملاء لديهم خبره واسعه في مجال الطاقه الشمسيه وعلى راسهم مهندس احمد إبراهيم",
-    "team2": "نحن نعمل بجميع منتجات الطاقه من الواح وشاسيهات وانفرتارات والواح حمايات",
-    "team3": "ونحن نعمل دراسه كامله لكل محطه خاصه بها وليس تطبيق كل المحطات بنفس المكونات والانواع نضع كل نوع في المحطة المناسب لها",
-    "team4": "دراسه جدوى كامله للمكان و موقع المحطه لتحديد الانواع والقدرات المناسبه",
-    "team5": "لدينا فريق كامل من خدمه العملاء ذو الخبره الفائقه في هذا المجال لافاده العملاء على اكمل وجه وارضائهم",
+    "team1": "الشركه لديها فريق عمل من المهندسين والفنيين وخدمة العملاء لديهم خبرة واسعة في مجال الطاقة الشمسية",
+    "team2": "  المدير التنفيذي: م./ أحمد إبراهيم",
+    "team3": "  المدير العام للشركة: د./ أشرف ملكة",
+    // "team4": "دراسه جدوى كامله للمكان و موقع المحطة لتحديد الانواع والقدرات المناسبه",
+    // "team5": "لدينا فريق كامل من خدمه العملاء ذو الخبره الفائقه في هذا المجال لافاده العملاء على اكمل وجه وارضائهم",
     "note": "تنويه :",
-    "note-text": "-لكل محطة دراسة خاصة بها يحتوي كل المعلومات والرسومات وخطوات التنفيذ والتكاليف ",
+    "note-text": "لكل محطة دراسة خاصة بها يحتوي كل المعلومات والرسومات وخطوات التنفيذ والتكاليف ",
     
     "contact-title": "تواصل معنا",
-     "work-card-1-title": "محطه بقدرة 100 كيلو وات طريق مصر اسكندريه الزراعي",
+     "work-card-1-title": "محطة بقدرة 100 كيلو وات طريق مصر اسكندريه الزراعي",
       "work-card-1-text": "محافظه الغربيه مصنع الأستاذ: احمد عايد (مصنع المراعي)",
       "work-card-2-title": "محطة بقدرة 90 كيلو وات طريق وادي النطرون العلمين",
       "work-card-2-text": "مزرعه نبع البركه",
-      "work-card-3-title": " محطه بقدره 25 كيلو وات (متحركه) بمدينه العلمين",
+      "work-card-3-title": " محطة بقدره 25 كيلو وات (متحركه) بمدينه العلمين",
       "work-card-3-text": "للأستاذ: حسن عبد العليم",
-      "work-card-4-title": "محطه أستاذ: سيد الشبراوي في سيناء",
-      "work-card-5-title": " محطه قدرتها 105 ونص كيلو وات مع توفير مكونات البئر خلال شهر ابريل 2025",
-      "work-card-6-title": "محطه أستاذ: سيد الشبراوي في سيناء بئر العبد",
-      "work-card-7-title": "محطه أستاذ: بويد بمطروح",
-      "work-card-8-title": "محطه الأستاذ: عطيوة الفقي بمطروح",
-      "work-card-9-title": "محطه الأستاذ: عاشور ادريس بمطروح",
-      "work-card-10-title": "محطه الأستاذ: ابراهيم كتكت بطنطا",
-      "work-card-11-title": " محطه الأستاذ: رضا البري بزفتي",
-      "work-card-12-title": " محطه الأستاذ: ابو العلا السباعي",
-      "work-card-13-title": " محطه الكابتن: محمد محسن بالمنوفية",
+      "work-card-4-title": "محطة أستاذ: سيد الشبراوي في سيناء",
+      "work-card-5-title": " محطة قدرتها 105 ونص كيلو وات مع توفير مكونات البئر خلال شهر ابريل 2025",
+      "work-card-6-title": "محطة أستاذ: سيد الشبراوي في سيناء بئر العبد",
+      "work-card-7-title": "محطة أستاذ: بويد بمطروح",
+      "work-card-8-title": "محطة الأستاذ: عطيوة الفقي بمطروح",
+      "work-card-9-title": "محطة الأستاذ: عاشور ادريس بمطروح",
+      "work-card-10-title": "محطة الأستاذ: ابراهيم كتكت بطنطا",
+      "work-card-11-title": " محطة الأستاذ: رضا البري بزفتي",
+      "work-card-12-title": " محطة الأستاذ: ابو العلا السباعي",
+      "work-card-13-title": " محطة الكابتن: محمد محسن بالمنوفية",
       "work-card-14-title": " محطة الاستاذ: طلعت شومان محطة بقدرة 75 كيلو وات اون جريد لمصنع بكفر الزيات خلال شهر مايو",
   },
 
@@ -120,8 +120,8 @@ const translations = {
     "mission6": "Respecting fair competition and collaborating with others.",
     "mission7": "Keeping up with local and global energy market updates and utilizing them.",
     "mission8": "Commitment to agreements and ensuring complete implementation.",
-   "guarantee-subtitle": "🌟 Company Guarantees",
-"guarantee-text": "Quality control is a top priority for the company, and the efficiency of products and installations undergo strict inspections to ensure compliance with the highest standards in the field.",
+    "guarantee-subtitle": "🌟 Company Guarantees",
+    "guarantee-text": "Quality control is a top priority for the company, and the efficiency of products and installations undergo strict inspections to ensure compliance with the highest standards in the field.",
     "about-title": "About the Company:",
     "about-point1": "A company specialized in supplying and installing all solar energy systems in all Egyptian governorates",
     "about-point2": "Implemented many projects since 2015 for well operations and works in agricultural, industrial, and residential sectors",
@@ -155,15 +155,15 @@ const translations = {
     "work-link": "Go somewhere",
     "values-title": "Company Values",
     "values-subtitle": "Company Guarantees:",
-    "value1": "Quality control is a top priority; products and installations undergo inspection processes",
-    "value2": "Strict checks to ensure they meet the highest quality and industry standards",
+    "value1": "Quality control is a top priority; products and installations undergo strict inspection processes to ensure they meet the highest quality and industry standards",
+    // "value2": "strict checks to ensure they meet the highest quality and industry standards",
 
     "team-title": "Our Team",
     "team1": "Our company has a team of engineers, technicians, and customer service professionals with extensive experience in solar energy, led by Eng. Ahmed Ibrahim",
     "team2": "We work with all types of solar products including panels, frames, inverters, and protection boards",
     "team3": "We conduct full feasibility studies tailored to each station and don’t use a one-size-fits-all approach",
-    "team4": "Complete site and station feasibility analysis to choose the right type and capacity",
-    "team5": "Our customer service team is highly experienced and aims to fully satisfy client needs",
+    // "team4": "Complete site and station feasibility analysis to choose the right type and capacity",
+    // "team5": "Our customer service team is highly experienced and aims to fully satisfy client needs",
     "note": "Note:",
     "note-text": "Every solar station comes with a bespoke study covering all details, designs, execution steps, and cost plans for ultimate efficiency.",
 
