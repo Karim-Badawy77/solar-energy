@@ -1,6 +1,6 @@
 const translations = {
   ar: {
-    "title": "م /احمد إبراهيم لأنظمة الطاقة الشمسية",
+    "title": "م/ احمد إبراهيم لأنظمة الطاقة الشمسية",
     "nav-home": "الصفحة الرئيسية",
     "nav-ourVission": "رؤية الشركة",
     "nav-about": "نبذة عنا",
@@ -10,9 +10,9 @@ const translations = {
     "nav-team": "فريق العمل",
     "nav-contact": "تواصل معنا",
     "welcome": "اهلا بكم",
-    "company-name": "شركه م/ احمد ابراهيم",
-    "company-sector": "لانظمه الطاقة الشمسية",
-    "about-heading": "شركة م /أحمد إبراهيم :",
+    "company-name": "شركة م/ احمد ابراهيم",
+    "company-sector": "لانظمة الطاقة الشمسية",
+    "about-heading": "شركة م/ أحمد إبراهيم :",
     "about-subheading": "بداية الشركة كانت 2015",
     "about-title": "نبذة عن الشركة:",
     "about-point1": "شركة متخصصة في توريد وتركيب جميع أنظمة الطاقة الشمسية في جميع محافظات جمهورية مصر العربية",
@@ -69,32 +69,32 @@ const translations = {
     "team3": "  المدير العام للشركة: د./ أشرف ملكة",
     // "team4": "دراسه جدوى كامله للمكان و موقع المحطة لتحديد الانواع والقدرات المناسبه",
     // "team5": "لدينا فريق كامل من خدمه العملاء ذو الخبره الفائقه في هذا المجال لافاده العملاء على اكمل وجه وارضائهم",
-    "note": "تنويه :",
+    "note": "تنوية :",
     "note-text": "لكل محطة دراسة خاصة بها يحتوي كل المعلومات والرسومات وخطوات التنفيذ والتكاليف ",
-    
+  
     "contact-title": "تواصل معنا",
-     "work-card-1-title": "محطة بقدرة 100 كيلو وات طريق مصر اسكندريه الزراعي",
-      "work-card-1-text": "محافظه الغربيه مصنع الأستاذ: احمد عايد (مصنع المراعي)",
-      "work-card-2-title": "محطة بقدرة 90 كيلو وات طريق وادي النطرون العلمين",
-      "work-card-2-text": "مزرعه نبع البركه",
-      "work-card-3-title": " محطة بقدره 25 كيلو وات (متحركه) بمدينه العلمين",
-      "work-card-3-text": "للأستاذ: حسن عبد العليم",
-      "work-card-4-title": "محطة أستاذ: سيد الشبراوي في سيناء",
-      "work-card-5-title": " محطة قدرتها 105 ونص كيلو وات مع توفير مكونات البئر خلال شهر ابريل 2025",
-      "work-card-6-title": "محطة أستاذ: سيد الشبراوي في سيناء بئر العبد",
-      "work-card-7-title": "محطة أستاذ: بويد بمطروح",
-      "work-card-8-title": "محطة الأستاذ: عطيوة الفقي بمطروح",
-      "work-card-9-title": "محطة الأستاذ: عاشور ادريس بمطروح",
-      "work-card-10-title": "محطة الأستاذ: ابراهيم كتكت بطنطا",
-      "work-card-11-title": " محطة الأستاذ: رضا البري بزفتي",
-      "work-card-12-title": " محطة الأستاذ: ابو العلا السباعي",
-      "work-card-13-title": " محطة الكابتن: محمد محسن بالمنوفية",
-      "work-card-14-title": " محطة الاستاذ: طلعت شومان محطة بقدرة 75 كيلو وات اون جريد لمصنع بكفر الزيات خلال شهر مايو",
+    "work-card-1-title": "محطة بقدرة 100 كيلو وات طريق مصر اسكندريه الزراعي",
+    "work-card-1-text": "محافظه الغربيه مصنع الأستاذ: احمد عايد (مصنع المراعي)",
+    "work-card-2-title": "محطة بقدرة 90 كيلو وات طريق وادي النطرون العلمين",
+    "work-card-2-text": "مزرعه نبع البركه",
+    "work-card-3-title": " محطة بقدره 25 كيلو وات (متحركه) بمدينه العلمين",
+    "work-card-3-text": "للأستاذ: حسن عبد العليم",
+    "work-card-4-title": "محطة أستاذ: سيد الشبراوي في سيناء",
+    "work-card-5-title": " محطة قدرتها 105 ونص كيلو وات مع توفير مكونات البئر خلال شهر ابريل 2025",
+    "work-card-6-title": "محطة أستاذ: سيد الشبراوي في سيناء بئر العبد",
+    "work-card-7-title": "محطة أستاذ: بويد بمطروح",
+    "work-card-8-title": "محطة الأستاذ: عطيوة الفقي بمطروح",
+    "work-card-9-title": "محطة الأستاذ: عاشور ادريس بمطروح",
+    "work-card-10-title": "محطة الأستاذ: ابراهيم كتكت بطنطا",
+    "work-card-11-title": " محطة الأستاذ: رضا البري بزفتي",
+    "work-card-12-title": " محطة الأستاذ: ابو العلا السباعي",
+    "work-card-13-title": " محطة الكابتن: محمد محسن بالمنوفية",
+    "work-card-14-title": " محطة الاستاذ: طلعت شومان محطة بقدرة 75 كيلو وات اون جريد لمصنع بكفر الزيات خلال شهر مايو",
   },
 
 
   en: {
-    "title": "Eng/Ahmed Ibrahim Solar Energy Systems",
+    "title": "Eng.\ Ahmed Ibrahim Solar Energy Systems",
     "nav-home": "Home",
     "nav-ourVission": "Our Vision",
     "nav-about": "About",
@@ -104,11 +104,11 @@ const translations = {
     "nav-team": "Team",
     "nav-contact": "Contact Us",
     "welcome": "Welcome",
-    "company-name": "Eng/Ahmed Ibrahim Company",
+    "company-name": "Eng.\ Ahmed Ibrahim Company",
     "company-sector": "Solar Energy Systems",
     "about-heading": "Eng/Ahmed Ibrahim Company:",
     "about-subheading": "The company started in 2015",
-        "vision-title": "Company Vision & Mission",
+    "vision-title": "Company Vision & Mission",
     "vision-subtitle": "🌟 Company Vision",
     "vision-text": "To have a strong and confident presence in the Egyptian energy market and implement the largest number of stations of all types and capacities.",
     "mission-subtitle": "🌟 Company Mission",
@@ -168,26 +168,26 @@ const translations = {
     "note-text": "Every solar station comes with a bespoke study covering all details, designs, execution steps, and cost plans for ultimate efficiency.",
 
     "contact-title": "Contact Us",
-      "work-card-1-title": "100 kW Station – Cairo-Alex Desert Road",
-      "work-card-1-text": "El Gharbia Governorate – Mr. Ahmed Ayed (Al Marai Factory)",
-      "work-card-2-title": "90 kW Station – Wadi El Natrun Alamein Road",
-      "work-card-2-text": "Naba'a Al Baraka Farm",
-      "work-card-3-title": "25 kW Mobile Station – El Alamein City",
-      "work-card-3-text": "For Mr. Hassan Abdel Aleem",
-      "work-card-4-title": "Mr. Sayed El Shabrawy Station – Sinai",
-      "work-card-5-title": "105.5 kW Station with Well Components – April 2025",
-      "work-card-6-title": "Mr. Sayed El Shabrawy Station – Bir El Abd, Sinai",
-      "work-card-7-title": "Mr. Boyd Station – Matrouh",
-      "work-card-8-title": "Mr. Atiya El Feki Station – Matrouh",
-      "work-card-9-title": "Mr. Ashour Idris Station – Matrouh",
-      "work-card-10-title": "Mr. Ibrahim Katkat Station – Tanta",
-      "work-card-11-title": "Mr. Reda El Bary Station – Zefta",
-      "work-card-12-title": "Mr. Abou El Ala El Sebaey Station",
-      "work-card-13-title": "Captain Mohamed Mohsen Station – Menoufia",
-      "work-card-14-title": "Mr. Talaat Shoman 75 kW On-Grid Station – Kafr El Zayat, May",
-      
+    "work-card-1-title": "100 kW Station – Cairo-Alex Desert Road",
+    "work-card-1-text": "El Gharbia Governorate – Mr. Ahmed Ayed (Al Marai Factory)",
+    "work-card-2-title": "90 kW Station – Wadi El Natrun Alamein Road",
+    "work-card-2-text": "Naba'a Al Baraka Farm",
+    "work-card-3-title": "25 kW Mobile Station – El Alamein City",
+    "work-card-3-text": "For Mr. Hassan Abdel Aleem",
+    "work-card-4-title": "Mr. Sayed El Shabrawy Station – Sinai",
+    "work-card-5-title": "105.5 kW Station with Well Components – April 2025",
+    "work-card-6-title": "Mr. Sayed El Shabrawy Station – Bir El Abd, Sinai",
+    "work-card-7-title": "Mr. Boyd Station – Matrouh",
+    "work-card-8-title": "Mr. Atiya El Feki Station – Matrouh",
+    "work-card-9-title": "Mr. Ashour Idris Station – Matrouh",
+    "work-card-10-title": "Mr. Ibrahim Katkat Station – Tanta",
+    "work-card-11-title": "Mr. Reda El Bary Station – Zefta",
+    "work-card-12-title": "Mr. Abou El Ala El Sebaey Station",
+    "work-card-13-title": "Captain Mohamed Mohsen Station – Menoufia",
+    "work-card-14-title": "Mr. Talaat Shoman 75 kW On-Grid Station – Kafr El Zayat, May",
+    
   }
-  };
+};
 
 
 function setLanguage(lang) {
