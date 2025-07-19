@@ -579,3 +579,12 @@ html[dir="rtl"] .owl-carousel .owl-item {
   float: right !important;
   text-align: right;
 }
+footer.text-center.bg-black {
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+}
+footer.text-center.bg-black p {
+  font-size: 0.9rem !important;
+  padding: 0.1rem 0 !important;
+  margin: 0 !important;
+}
