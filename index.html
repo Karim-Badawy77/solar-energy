@@ -161,9 +161,9 @@
   </div>
 </section>
 
-  <!-- Services -->
- <!-- Services -->
-  <section id="services" class="mb-0 pb-0">
+
+<!-- Services -->
+<section id="services" class="mb-0 pb-0">
   <div class="container p-5 bg-black rounded-2">
     <div class="text-center pb-5 fw-bolder">
       <h2 class="h1 text-white pt-5" data-translate="services-title">
@@ -245,9 +245,9 @@
 
 
 
-  <!-- protoflio -->
- 
- <section id="works">
+<!-- protoflio -->
+
+<section id="works">
   <div class="row col-12 text-center pb-5 fw-bolder">
     <h2 class="h1 fw-bolder titles" data-translate="works-title">انجازات الشركه</h2>
     <h3 data-translate="works-subtitle">نقدم خدمات احترافيه</h3>
@@ -449,6 +449,22 @@
   <script src="OwlCarousel2-2.3.4/dist/owl.carousel.min.js"></script>
   <script src="js/main.js"></script>
   <script src="js/lang.js"></script>
+  
+  <script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var navbarToggler = document.querySelector('.navbar-toggler');
+    var logoContainer = document.querySelector('.logo-container');
+    var navbarCollapse = document.getElementById('navbarNav');
+    if (navbarToggler && logoContainer && navbarCollapse) {
+      navbarCollapse.addEventListener('show.bs.collapse', function () {
+        logoContainer.classList.add('hide-on-menu');
+      });
+      navbarCollapse.addEventListener('hide.bs.collapse', function () {
+        logoContainer.classList.remove('hide-on-menu');
+      });
+    }
+  });
+</script>
   
 </body>
 

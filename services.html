@@ -307,4 +307,19 @@
   <script src="OwlCarousel2-2.3.4/dist/owl.carousel.min.js"></script>
   <script src="js/main.js"></script>
   <script src="js/lang.js"></script>
+  <script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var navbarToggler = document.querySelector('.navbar-toggler');
+    var logoContainer = document.querySelector('.logo-container');
+    var navbarCollapse = document.getElementById('navbarNav');
+    if (navbarToggler && logoContainer && navbarCollapse) {
+      navbarCollapse.addEventListener('show.bs.collapse', function () {
+        logoContainer.classList.add('hide-on-menu');
+      });
+      navbarCollapse.addEventListener('hide.bs.collapse', function () {
+        logoContainer.classList.remove('hide-on-menu');
+      });
+    }
+  });
+</script>
 </body>
