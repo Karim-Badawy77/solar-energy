@@ -588,3 +588,73 @@ footer.text-center.bg-black p {
   padding: 0.1rem 0 !important;
   margin: 0 !important;
 }
+
+/* Center contact icons and put text below each icon */
+#contact .contact-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: center;
+}
+#contact .icon-contact {
+  background-color: #0d6efd;
+  border-radius: 50%;
+  width: 65px;
+  height: 65px;
+  margin-bottom: 10px;
+  transition: 0.3s ease;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+#contact .icon-contact a {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
+#contact .icon-contact i {
+  color: #fff;
+  font-size: 24px;
+  transition: 0.3s ease;
+}
+#contact .contact-info h6,
+#contact .contact-info p {
+  margin-top: 0.5rem;
+  margin-bottom: 0;
+  text-align: center;
+}
+.icons {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-end;
+}
+.icon-circle {
+  width: 50px;
+  height: 50px;
+  background-color: #000;
+  color: burlywood;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.7rem;
+  transition: background-color 0.3s, color 0.3s;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  padding: 0;
+  text-decoration: none !important;
+}
+.icon-circle:hover {
+  background-color: beige;
+  color: #000;
+  text-decoration: none !important;
+}
+.icons a {
+  text-decoration: none !important;
+}
