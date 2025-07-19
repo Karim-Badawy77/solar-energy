@@ -710,3 +710,17 @@ footer.text-center.bg-black p {
   padding-bottom: 0 !important;
 }
 
+#works .owl-carousel .card {
+  min-height: 500px;/* works blocks */
+}
+#works .owl-carousel .card-body {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+  justify-content: flex-end;
+}
+#works .owl-carousel .btn {
+  align-self: flex-end;
+  margin-top: auto;
+}
+
