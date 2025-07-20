@@ -714,13 +714,29 @@ footer.text-center.bg-black p {
   min-height: 500px;/* works blocks */
 }
 #works .owl-carousel .card-body {
-  display: flex;
-  flex-direction: column;
-  flex: 1 1 auto;
-  justify-content: flex-end;
+  padding-left: 1.25rem !important;
+  padding-right: 1.25rem !important;
+  align-items: flex-start !important;
+  text-align: right !important;
+  width: 100%;
+}
+#works .owl-carousel .card-title,
+#works .owl-carousel .card-text {
+  margin: 0 !important;
+  padding: 0 !important;
+  text-align: right !important;
+  width: 100%;
 }
 #works .owl-carousel .btn {
   align-self: flex-end;
   margin-top: auto;
 }
 
+/* .works-main-btn {
+  font-size: 1.5rem !important;
+  padding: 18px 48px !important;
+  min-width: 260px !important;
+  border-radius: 8px !important;
+  font-weight: bold !important;
+}
+ */
